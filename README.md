@@ -24,7 +24,7 @@
   🔗 https://github.com/Nooneyouknow123/Discord-bot-for-ERLC-private-server
 - **User id scraper** - Collect and store user ids in sql database.
   🔗 https://github.com/Nooneyouknow123/User-id-scraper-for-discord-servers
-- **Gaza Guild Custom Bot** — (private / production) moderation, logging, economy and features for 29k+ members.  
+- **Gaza Guild Custom Bot** — Moderation, Logging and Automation for Gaza Guild 29k+ Members.  
   🔗 https://github.com/Nooneyouknow123/Gaza-Utility-Custom-Bot-
 
 ---
