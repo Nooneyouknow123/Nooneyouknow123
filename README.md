@@ -25,7 +25,7 @@
 - **User id scraper** - Collect and store user ids in sql database.
   🔗 https://github.com/Nooneyouknow123/User-id-scraper-for-discord-servers
 - **Gaza Guild Custom Bot** — (private / production) moderation, logging, economy and features for 29k+ members.  
-  🔗 *(Private — ask for access on Discord)*
+  🔗 https://github.com/Nooneyouknow123/Gaza-Utility-Custom-Bot-
 
 ---
 
