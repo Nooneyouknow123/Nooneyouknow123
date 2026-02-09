@@ -12,9 +12,8 @@
 - 🔭 Currently Head Developer at **Gaza Guild** (29k+ members) — lead on the Gaza Guild Custom Bot.  
 - 🤖 Creator / Owner of **Daily Quran** — a Discord bot that delivers Quran content automatically.  
 - 🛠️ Built **ERLC moderation utility** — moderation tooling for private communities.  
-- 💬 Discord: **Marty_fabio_** (DMs open)  
-- 📧 Email: [syedwajihzaidi07@gmail.com](mailto:syedwajihzaidi07@gmail.com)
-
+- 💬 Discord: **Marty_fabio_** (DMs open)
+- 
 ---
 
 ## Featured Projects
@@ -55,7 +54,7 @@
 
 ## Contact
 - Discord: **Marty_fabio_** — DMs open 
-- Email: [syedwajihzaidi07@gmail.com](mailto:syedwajihzaidi07@gmail.com)
+
 
 
 
