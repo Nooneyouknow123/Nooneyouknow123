@@ -53,7 +53,7 @@
 ---
 
 ## Contact
-- Discord: **Marty_fabio_** — DMs open 
+- Discord: **Martyrfabio** — DMs open 
 
 
 
