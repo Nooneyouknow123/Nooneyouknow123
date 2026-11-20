@@ -20,7 +20,7 @@
 - **Daily Quran bot** — Discord bot that delivers daily Quran content.  
   🔗 https://github.com/Nooneyouknow123/Daily-Quran-Discord-Bot
 - **ERLC utility bot** — moderation & utility bot for ERLC server.  
-  🔗 https://github.com/Nooneyouknow123/Discord-bot-for-ERLC-private-server
+  🔗 [https://github.com/Nooneyouknow123/Discord-bot-for-ERLC-private-server](https://github.com/Nooneyouknow123/Discord-bot-for-ERLC-private-server.)
 - **User id scraper** - Collect and store user ids in sql database.
   🔗 https://github.com/Nooneyouknow123/User-id-scraper-for-discord-servers
 - **Gaza Guild Custom Bot** — Moderation, Logging and Automation for Gaza Guild 29k+ Members.  
